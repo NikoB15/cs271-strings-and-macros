@@ -1,5 +1,9 @@
 # String Primitives and Macros
-> CS271 Portfolio Project — Completed 2023-12-04
+
+Niko Bransfield  
+Oregon State University  
+CS271 Portfolio Project  
+Completed 2023-12-04
 
 ## Program Description
 Write and test a MASM program to perform the following tasks:
